@@ -1,2 +1,7 @@
 .myenv
 /* myenv
+
+# Ignore the virtual environment directory
+myenv/
+# If myenv could appear in subdirectories, use:
+**/myenv/
